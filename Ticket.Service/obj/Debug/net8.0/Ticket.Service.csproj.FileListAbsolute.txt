@@ -1,0 +1,15 @@
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\bin\Debug\net8.0\Ticket.Service.deps.json
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\bin\Debug\net8.0\Ticket.Service.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\bin\Debug\net8.0\Ticket.Service.pdb
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\bin\Debug\net8.0\Ticket.Common.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\bin\Debug\net8.0\Ticket.Common.pdb
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.csproj.AssemblyReference.cache
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.AssemblyInfoInputs.cache
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.AssemblyInfo.cs
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.csproj.CoreCompileInputs.cache
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.S.6C72D6F5.Up2Date
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\refint\Ticket.Service.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.pdb
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\ref\Ticket.Service.dll

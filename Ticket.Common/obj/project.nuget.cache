@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxpPjoAxnb/K95AIZRhBFr1g3qasaglyBx95K+Ou3olL+fAgeuwa/1TeEHY6F+BMRTDsEoIjoUlDWBQb/6S/vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joker\\RiderProjects\\Ticket\\Ticket.Common\\Ticket.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joker\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\joker\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\joker\\.nuget\\packages\\stackexchange.redis\\2.8.16\\stackexchange.redis.2.8.16.nupkg.sha512",
+    "C:\\Users\\joker\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

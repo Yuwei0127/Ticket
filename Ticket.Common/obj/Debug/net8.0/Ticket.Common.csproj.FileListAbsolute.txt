@@ -1,0 +1,12 @@
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\bin\Debug\net8.0\Ticket.Common.deps.json
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\bin\Debug\net8.0\Ticket.Common.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\bin\Debug\net8.0\Ticket.Common.pdb
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.csproj.AssemblyReference.cache
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.AssemblyInfoInputs.cache
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.AssemblyInfo.cs
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.csproj.CoreCompileInputs.cache
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\refint\Ticket.Common.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\Ticket.Common.pdb
+C:\Users\joker\RiderProjects\Ticket\Ticket.Common\obj\Debug\net8.0\ref\Ticket.Common.dll

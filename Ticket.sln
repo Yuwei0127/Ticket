@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket.WebApplication", "Ticket.WebApplication\Ticket.WebApplication.csproj", "{61C0E29F-F2BA-431D-A536-1B0E2E255B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket.Service", "Ticket.Service\Ticket.Service.csproj", "{ECDC72EB-DEC6-414F-9221-92CEAA080F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket.Repository", "Ticket.Repository\Ticket.Repository.csproj", "{D72E34C6-482D-4116-A3F5-5035C3E482FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket.Common", "Ticket.Common\Ticket.Common.csproj", "{61EE44CF-CDC9-465F-A2D4-78D2F34A63D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C0E29F-F2BA-431D-A536-1B0E2E255B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C0E29F-F2BA-431D-A536-1B0E2E255B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C0E29F-F2BA-431D-A536-1B0E2E255B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C0E29F-F2BA-431D-A536-1B0E2E255B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDC72EB-DEC6-414F-9221-92CEAA080F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDC72EB-DEC6-414F-9221-92CEAA080F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDC72EB-DEC6-414F-9221-92CEAA080F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDC72EB-DEC6-414F-9221-92CEAA080F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72E34C6-482D-4116-A3F5-5035C3E482FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72E34C6-482D-4116-A3F5-5035C3E482FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72E34C6-482D-4116-A3F5-5035C3E482FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72E34C6-482D-4116-A3F5-5035C3E482FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EE44CF-CDC9-465F-A2D4-78D2F34A63D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EE44CF-CDC9-465F-A2D4-78D2F34A63D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EE44CF-CDC9-465F-A2D4-78D2F34A63D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EE44CF-CDC9-465F-A2D4-78D2F34A63D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
