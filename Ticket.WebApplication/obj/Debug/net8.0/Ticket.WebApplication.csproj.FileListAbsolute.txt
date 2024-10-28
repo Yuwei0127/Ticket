@@ -36,3 +36,17 @@ C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\refin
 C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\Ticket.WebApplication.pdb
 C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\Ticket.WebApplication.genruntimeconfig.cache
 C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\ref\Ticket.WebApplication.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\Ticket.WebApplication.sourcelink.json
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\Ticket.WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Ticket.WebApplication.xml

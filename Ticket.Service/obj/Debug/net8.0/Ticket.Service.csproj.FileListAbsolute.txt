@@ -13,3 +13,4 @@ C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Servi
 C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\refint\Ticket.Service.dll
 C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.pdb
 C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\ref\Ticket.Service.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.Service\obj\Debug\net8.0\Ticket.Service.sourcelink.json

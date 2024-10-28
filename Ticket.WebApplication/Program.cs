@@ -1,13 +1,37 @@
+using Microsoft.OpenApi.Models;
 using StackExchange.Redis;
+using Ticket.Application.Infrastructure.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+// builder.Services.AddControllersWithViews();
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+
+// 加入 Swagger 服務
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1",
+        new OpenApiInfo()
+        {
+            Title = "Ticket.Application",
+            Version = "v1"
+        }
+    );
+
+    var basePath = AppContext.BaseDirectory;
+    var xmlFiles = Directory.EnumerateFiles(basePath, "*.xml", SearchOption.TopDirectoryOnly);
+    foreach (var xmlFile in xmlFiles)
+    {
+        c.IncludeXmlComments(xmlFile);
+    }
+});
 
 // 設定 Redis 連接
-var redisConnectionString = "localhost:6379"; // 根據你的 Redis 服務設定進行修改
-builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect(redisConnectionString));
+builder.Services.AddRedisModule();
 
 var app = builder.Build();
 
@@ -19,6 +43,12 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Ticket API v1");
+});
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
@@ -26,8 +56,10 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllers();
+//
+// app.MapControllerRoute(
+//     name: "default",
+//     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
