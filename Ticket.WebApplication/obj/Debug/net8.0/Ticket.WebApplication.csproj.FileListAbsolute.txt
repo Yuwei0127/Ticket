@@ -50,3 +50,5 @@ C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Swash
 C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\obj\Debug\net8.0\Ticket.WebApplication.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Ticket.WebApplication.xml
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Prometheus.NetStandard.dll
+C:\Users\joker\RiderProjects\Ticket\Ticket.WebApplication\bin\Debug\net8.0\Prometheus.AspNetCore.dll

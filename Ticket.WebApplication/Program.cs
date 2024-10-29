@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models;
+using Prometheus;
 using StackExchange.Redis;
 using Ticket.Application.Infrastructure.DependencyInjection;
 
@@ -49,14 +50,17 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Ticket API v1");
 });
 
+app.UseHttpMetrics();
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
+app.UseHttpMetrics(); // 追蹤 HTTP 請求的相關 Metrics
 
 app.MapControllers();
+app.MapMetrics();
+
 //
 // app.MapControllerRoute(
 //     name: "default",
